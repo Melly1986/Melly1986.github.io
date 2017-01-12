@@ -1,9 +1,9 @@
 html{
 	text-align: center;
-	background-image: url(images/unit_3.jpg);
+	background-image: url(unit_3/images.jpg);
 	background-size: cover;
 	font-family: Times;
-	color: #00ff00;
+	color: #ff00;
 }
 p {
 	font-size: 22px;
