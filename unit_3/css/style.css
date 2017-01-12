@@ -1,6 +1,6 @@
 body{
 	text-align: center;
-	background: url("https://ravenhawksmagazine.files.wordpress.com/2016/06/children-playing-on-grass_1098-504.jpg");
+	background-image: : url("https://ravenhawksmagazine.files.wordpress.com/2016/06/children-playing-on-grass_1098-504.jpg");
 	background-size: cover;
 }
 
@@ -10,7 +10,7 @@ h2{
 
 }
 hr{
-	width: 200px;
+	width: 400px;
 }
 p {
 	font-size: 22px;
