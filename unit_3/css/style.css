@@ -1,0 +1,14 @@
+html{
+	text-align: center;
+	background-image: url(images/unit_3.jpg);
+	background-size: cover;
+	font-family: Times;
+	color: #00ff00;
+}
+p {
+	font-size: 22px;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+}
