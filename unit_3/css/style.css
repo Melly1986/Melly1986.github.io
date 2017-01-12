@@ -3,7 +3,9 @@ body{
 	background-image: url(unit_3/images.jpg);
 	background-size: cover;
 	font-family: Times;
-	color: #ff00;
+{
+hr{
+	width: 200px;
 }
 p {
 	font-size: 22px;
