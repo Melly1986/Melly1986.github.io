@@ -16,6 +16,10 @@ h2{
 	text-transform: uppercase;
 }
 
+ul{
+	font-family: 'Gloria Hallelujah', bold;
+}
+
 hr,hr {
 	width: 800px;
 }
