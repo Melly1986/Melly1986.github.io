@@ -20,6 +20,10 @@ h2{
 	text-transform: uppercase;
 }
 
+p{
+	font-size: 30px;
+}
+
 ul{
 	font-family: 'Gloria Hallelujah', bold;
 }
