@@ -1,10 +1,9 @@
 html {
 	background: url("https://ravenhawksmagazine.files.wordpress.com/2016/06/children-playing-on-grass_1098-504.jpg");
 	background-size: cover;
-	color: #800000
 }
 body {
-	text-align: center;
+	text-align: center, color: #800000;
 	
 }
 
