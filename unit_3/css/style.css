@@ -6,10 +6,9 @@ html {
 }
 
 body {
-	text-align: center;
+	text-align: center, color: #800000;
 	font-size: 18px;
 	margin: 2em
-	color: #800000;
 }
 
 h1{
