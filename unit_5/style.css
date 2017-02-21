@@ -1,0 +1,50 @@
+html {
+	background: url("https://ravenhawksmagazine.files.wordpress.com/2016/06/children-playing-on-grass_1098-504.jpg");
+	background-size: cover;
+	text-align: center;
+	font-size:30px;
+}
+
+body {
+	text-align: center;
+	font-size:30px;
+	margin:2em
+	color:#800000;
+}
+header{
+	background-color: #FFED74:;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+h2{
+	font-style: bold;
+	text-transform: uppercase;
+}
+section{
+	background-color: #FFE2B8;
+}
+p{
+	font-size:30px;
+}
+
+ul{
+	font-family: 'Gloria Hallelujah', bold;
+}
+nav{
+	background-color: #E8C66A:;
+}
+hr,hr {
+	width: 800px;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+footer{
+	background-color: #FF957E
+}
