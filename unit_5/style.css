@@ -12,7 +12,7 @@ body {
 	color:#800000;
 }
 header{
-	background-color: #FFED74:;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -26,6 +26,8 @@ h2{
 }
 section{
 	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 p{
 	font-size:30px;
@@ -35,16 +37,25 @@ ul{
 	font-family: 'Gloria Hallelujah', bold;
 }
 nav{
-	background-color: #E8C66A:;
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 hr,hr {
 	width: 800px;
 }
 
+div{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 ul {
 	text-align: center;
 	list-style-type: none;
 }
 footer{
-	background-color: #FF957E
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
