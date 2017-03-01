@@ -31,14 +31,6 @@ h2{
 	width: 62%;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
-}
 p{
 	font-size:30px;
 }
