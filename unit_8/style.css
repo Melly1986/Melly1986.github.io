@@ -71,9 +71,7 @@ ul {
 	height: 0;
 }
 
-@media screen and (device-width: 320px) and
-(device-height: 568px) and (-webkit-device-pixel-ratio:
-2) {
+@media screen and (device-width: 800px) {
 	nav {
       float:none;
     }
@@ -82,10 +80,3 @@ ul {
       margin: 0 1.6em .75em 0;
   }
  
-@media screen and (device-width: 768px) and (deviceheight:
-1024px) and (-webkit-device-pixel-ratio: 1) {
-
-	nav {
-      float:none;
-    }
-} 
