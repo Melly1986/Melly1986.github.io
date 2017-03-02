@@ -71,7 +71,7 @@ ul {
 	height: 0;
 }
 
-@media screen and (device-width: 800px) {
+@media screen and (max-width: 800px) {
 	nav {
       float:none;
     }
