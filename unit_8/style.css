@@ -2,15 +2,13 @@ html {
 	background-size: cover;
 	text-align: center;
 	font-size:30px;
-
 }
 
 body {
 	text-align: center;
-	font-size:2em;
-	margin:0;
+	font-size:30px;
+	margin:2em;
 	color:#800000;
-	width: 80%;
 }
 
 h1{
@@ -69,7 +67,3 @@ ul {
 	clear: both;
 	height: 0;
 }
-
-@media screen and (device-width: 320px) and
-(device-height: 568px) and (-webkit-device-pixel-ratio:
-2)
