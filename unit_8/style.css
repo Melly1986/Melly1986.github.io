@@ -71,12 +71,6 @@ ul {
 	height: 0;
 }
 
-@media screen and (max-width: 800px) {
-	body {
-      float:none;
-    }
-
-     nav a {
-      margin: 0 1.6em .75em 0;
-  }
- 
+@media screen and (device-width: 320px) and
+(device-height: 568px) and (-webkit-device-pixel-ratio:
+2)
