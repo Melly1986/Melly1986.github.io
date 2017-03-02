@@ -11,6 +11,11 @@ body {
 	color:#800000;
 }
 
+#wrapper {
+	margin: auto;
+	width: 100%;
+}
+
 h1{
 	font-family: 'Gloria Hallelujah', cursive;
 }
@@ -67,6 +72,16 @@ ul {
 	height: 0;
 }
 
-@media screen and (device-width: 320px) and
-(device-height: 568px) and (-webkit-device-pixel-ratio:
-2)
+@media only screen and max-width: 1140px) {
+	nav a{
+		font-size: 1.5em;
+	}
+
+@media only screen and (max-width: 990px) {
+	body {
+		float: none;
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+}
