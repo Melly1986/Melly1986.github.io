@@ -1,0 +1,72 @@
+html {
+	background-size: cover;
+	text-align: center;
+	font-size:30px;
+	width: 100%;
+
+}
+
+body {
+	text-align: center;
+	font-size:30px;
+	margin:0 auto;
+	color:#800000;
+	width: 80%;
+}
+
+h1{
+	font-family: 'Gloria Hallelujah', cursive;
+	width: 100%;
+}
+
+h2{
+	font-style: bold;
+	text-transform: uppercase;
+}
+
+p{
+	font-size:30px;
+}
+
+ul{
+	font-family: 'Gloria Hallelujah', bold;
+}
+
+hr,hr {
+	width: 800px;
+}
+
+ul {
+	text-align: center;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
